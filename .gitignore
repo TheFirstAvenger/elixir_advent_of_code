@@ -1,0 +1,5 @@
+/_build
+/deps
+erl_crash.dump
+*.ez
+advent_of_code.sublime-workspace
